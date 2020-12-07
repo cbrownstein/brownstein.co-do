@@ -1,25 +1,23 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+title = "About Me"
+description = "About Cody Brownstein, content writer extraordinaire and creator of this awesome website"
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+#aliases = ["about-us", "about-hugo", "contact"]
+author = "Cody Brownstein"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hi! My name is Cody Brownstein. I've created this site to:
 
-Hugo makes use of a variety of open source projects including:
+- showcase the content I've written for clients
+- practice using the [Hugo static site generator](https://gohugo.io/)
+- share my thoughts and feelings on myriad topics
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Since this site is a constant work in progress, expect it to break—often.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+This site is hosted _gratis_, courtesy of
+[Digital Ocean](https://m.do.co/c/c734c24d9785). Digital Ocean's
+[App Platform](https://www.digitalocean.com/products/app-platform/).
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Learn more about me by checking out my
+[LinkedIn profile](https://www.linkedin.com/in/codybrownstein/) and my
+[Upwork profile](https://www.upwork.com/fl/cbrownstein).
