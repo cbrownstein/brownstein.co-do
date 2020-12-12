@@ -15,8 +15,10 @@ Hi! My name is Cody Brownstein. I've created this site to:
 Since this site is a constant work in progress, expect it to break—often.
 
 This site is hosted _gratis_, courtesy of
-[Digital Ocean](https://m.do.co/c/c734c24d9785). Digital Ocean's
-[App Platform](https://www.digitalocean.com/products/app-platform/).
+[Digital Ocean](https://m.do.co/c/c734c24d9785). Using Digital Ocean's
+[App Platform](https://www.digitalocean.com/products/app-platform/), this site
+is built from the source code in my [GitHub
+repository](https://github.com/cbrownstein).
 
 Learn more about me by checking out my
 [LinkedIn profile](https://www.linkedin.com/in/codybrownstein/) and my
