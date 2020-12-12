@@ -1,7 +1,7 @@
 +++
 title = "About Me"
 description = "About Cody Brownstein, content writer extraordinaire and creator of this awesome website"
-date = "2019-02-28"
+date = "2020-12-06"
 #aliases = ["about-us", "about-hugo", "contact"]
 author = "Cody Brownstein"
 +++
