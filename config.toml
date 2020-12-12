@@ -1,7 +1,7 @@
 theme = "hugo-PaperMod"
 relativeURLs = true
-baseURL = "/"
-title = "Cody Brownstein | Digital Marketing Content Writer"
+baseURL = "https://brownstein.co/"
+title = "brownstein.co"
 author = "Cody Brownstein"
 copyright = "Content belongs to its respective copyright holder."
 paginate = 3
@@ -53,3 +53,7 @@ series = "series"
 
   [services.twitter]
     disableInlineCSS = true
+
+[params]
+  author = "Cody Brownstein"
+  showShareButtons = true
