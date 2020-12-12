@@ -12,6 +12,10 @@
 {{ $scratch.Add "meta" (slice .)}}
 {{end}}
 
+{{- if $.Params.canonicalURL -}}
+{{- $scratch.Add "meta" (printf "<a href=\"%s\">Published Version</a>" $.Params.canonicalURL) }}
+{{- end -}}
+
 {{- with ($scratch.Get "meta")}}
 {{- delimit . "&nbsp;·&nbsp;"}}
 {{- end }}
