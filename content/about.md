@@ -9,7 +9,7 @@ author = "Cody Brownstein"
 Hi! My name is Cody Brownstein. I've created this site to:
 
 - showcase the content I've written for clients
-- practice using the [Hugo static site generator](https://gohugo.io/)
+- experiment with the [Hugo](https://gohugo.io/) static site generator
 - share my thoughts and feelings on myriad topics
 
 Since this site is a constant work in progress, expect it to break—often.
