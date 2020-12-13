@@ -10,7 +10,7 @@ tags = [
   "owlytica",
   "reliant technology"
 ]
-canonicalURL = "https://reliant-technology.com/blog/make-your-migration-to-the-cloud-easier-with-reliant-technology/"
+canonical = ["https://reliant-technology.com/blog/make-your-migration-to-the-cloud-easier-with-reliant-technology/"]
 
 [cover]
 image = "woman-using-computer.jpg"
