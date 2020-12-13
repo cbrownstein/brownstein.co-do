@@ -21,5 +21,5 @@ is built from the source code in my [GitHub
 repository](https://github.com/cbrownstein).
 
 Learn more about me by checking out my
-[LinkedIn profile](https://www.linkedin.com/in/codybrownstein/) and my
-[Upwork profile](https://www.upwork.com/fl/cbrownstein).
+[LinkedIn](https://www.linkedin.com/in/codybrownstein/) profile and my
+[Upwork](https://www.upwork.com/fl/cbrownstein) profile.
