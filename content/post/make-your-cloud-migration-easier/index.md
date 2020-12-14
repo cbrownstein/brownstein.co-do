@@ -30,9 +30,9 @@ IT hardware while you concentrate on your cloud migration.
 Fortunately, Reliant Technology is here to ensure your migration from
 on-premises IT solutions to the cloud goes smoothly.
 
-# Challenges of Migrating to the Cloud
+## Challenges of Migrating to the Cloud
 
-## Less Resources are Available to Maintain Existing IT Hardware
+### Less Resources are Available to Maintain Existing IT Hardware
 
 Although you are focused on transitioning to the cloud, that doesn’t mean that
 your existing IT hardware no longer needs to be maintained. Most companies put
@@ -40,7 +40,7 @@ all of their resources toward transitioning to the cloud, failing to properly
 maintain your existing IT hardware which results in costly downtime for your
 organization.
 
-## Timelines are Proving to be Unworkable
+### Timelines are Proving to be Unworkable
 
 Often when migrating to the cloud,
 unforeseen issues can cause a cascade of missed deadlines. These delays can
@@ -48,14 +48,14 @@ contribute to extra stress and extra costs. This makes the planning process
 that much more important. Add additional times for unscheduled issues that
 might occur.
 
-## Budgets are Proving to be Inadequate
+### Budgets are Proving to be Inadequate
 
 When unforeseen issues arise during a cloud migration, budgets can be overrun
 with expenses not planned for. Having to adjust your budgets for these
 unplanned-for expenses can result in constraints on the resources you would
 rather dedicate toward your migration.
 
-## Maintenance Contracts are not Properly Tracked
+### Maintenance Contracts are not Properly Tracked
 
 Since your attention is primarily being focused on your cloud migration, it is
 easy to lose track of your maintenance contracts for your existing IT
@@ -63,7 +63,7 @@ hardware. When maintenance contracts are not being tracked properly, you might
 overlook the need to renew them. Or, you might be in the precarious position
 of having to procure one without have time to negotiate prices and terms.
 
-## How Reliant Technology Can Make the Transition Hassle-Free
+### How Reliant Technology Can Make the Transition Hassle-Free
 
 When you partner with Reliant Technology, you will have an easier time
 maintaining existing legacy IT hardware while creating a proactive plan to
