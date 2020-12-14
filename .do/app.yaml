@@ -1,9 +1,19 @@
-name: sample-hugo
+domains:
+- domain: brownstein.co
+  type: PRIMARY
+name: brownstein-co-do
+region: nyc
 static_sites:
-- build_command: rm -r ./public; hugo --destination ./public
+- build_command: hugo -d public
   environment_slug: hugo
+  envs:
+  - key: HUGO_ENV
+    scope: BUILD_TIME
+    value: production
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-hugo
-  name: sample-hugo
+    repo: cbrownstein/brownstein.co-do
+  name: brownstein-co-do
+  routes:
+  - path: /
