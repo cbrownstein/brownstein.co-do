@@ -20,9 +20,9 @@ These acronyms concerning the lifecycle of server, network, and storage
 hardware products are all related, but each of these acronyms has distinct
 importance, discussed in this article.
 
-# What does EOL, EOSL, and EOS Stand for and What is the Significance of each?
+## What does EOL, EOSL, and EOS Stand for and What is the Significance of each?
 
-## EOL
+### EOL
 
 EOL refers to “[end of
 life](https://reliant-technology.com/end-of-life-information/).” EOL is
@@ -55,7 +55,7 @@ reaching their end of service life. The significance of this is that the
 manufacturer is still providing support for the product and the product can
 still be covered by the warranty provided by the manufacturer.
 
-## EOSL
+### EOSL
 
 [EOSL](https://reliant-technology.com/blog/whats-the-difference-eol-eosl-eos-eoa/)
 refers to “end of service life”, or “end of support life,” or sometimes simply
@@ -77,7 +77,7 @@ Any support contracts purchased from the manufacturer will continue to remain
 in effect, but might not be able to be renewed. If a support contract is able
 to be renewed, it might be at a significantly increased price.
 
-# What Options are Available to a Company once its Hardware Product has Reached its EOL or EOSL?
+## What Options are Available to a Company once its Hardware Product has Reached its EOL or EOSL?
 
 When a hardware product used by a company reaches its EOSL, the company has
 several support options for the product to choose from.
@@ -113,15 +113,15 @@ third-party maintenance provider, also known as a TPM. If the original
 manufacturer of a product that has reached its EOSL does not offer extended
 support contracts, this might be the only available support option.
 
-# What are the Benefits of using a Third-Party Maintenance Provider?
+## What are the Benefits of using a Third-Party Maintenance Provider?
 
-## Flexible Contracts
+### Flexible Contracts
 
 Third Party Maintenance support contracts are more flexible and more
 affordable than OEM contracts. TPM providers do not force you into unnecessary
 support that you don’t need and long term contracts.
 
-## Savings on Hardware
+### Savings on Hardware
 
 Third-party maintenance providers generally offer much more affordable product
 support contracts than those offered by the original manufacturer of the
@@ -133,7 +133,7 @@ maintenance support. In fact, the service-level agreement, or SLA, is often
 greater with third-party maintenance providers than with the original
 manufacturers.
 
-## Reliable Support
+### Reliable Support
 
 Third-party maintenance providers have the same ability to provide support for
 EOSL products as the original manufacturer of the products.
@@ -143,7 +143,7 @@ Original manufacturers might take days to deliver a replacement part,
 third-party maintenance providers utilize on-site spare parts kits, which can
 reduce downtime to mere minutes.
 
-## Extend the Life of Your Hardware
+### Extend the Life of Your Hardware
 Even long after a product has reached its EOSL, original parts generally are
 still obtainable by third-party maintenance providers.
 
@@ -153,7 +153,7 @@ TPM providers are familiar with a variety of products, they are able to act as
 a single-point contact for support, eliminating the need to enter into support
 contracts with different manufacturers.
 
-# Why use Reliant Technology as your Third-Party Maintenance Provider?
+## Why use Reliant Technology as your Third-Party Maintenance Provider?
 
 The experts at Reliant Technology will advise you on whether or not you should
 consider refreshing your products that have reached their EOSL, or if a
@@ -182,7 +182,7 @@ Reliant Technology experts are familiar with a wide range of different
 products, and can be your single contact point for all of the product support
 needs of your company.
 
-# Contact Reliant Technology
+## Contact Reliant Technology
 
 If you would like to learn if your product has reached its EOSL, or if you
 would like to start planning for when your product eventually does reach its
