@@ -1,9 +1,16 @@
 spec:
-  name: sample-hugo
+  name: brownstein-co-do
   static_sites:
-  - build_command: rm -r ./public; hugo --destination ./public
+  - build_command: hugo -d public
     environment_slug: hugo
-    git:
+    envs:
+    - key: HUGO_ENV
+      scope: BUILD_TIME
+      value: production
+    github:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-hugo.git
-    name: sample-hugo
+      deploy_on_push: true
+      repo: cbrownstein/brownstein.co-do
+    name: brownstein-co-do
+    routes:
+    - path: /
