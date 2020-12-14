@@ -1,7 +1,7 @@
 theme = "hugo-PaperMod"
 relativeURLs = true
 baseURL = "https://brownstein.co/"
-title = "brownstein.co"
+title = "Cody Brownstein"
 author = "Cody Brownstein"
 copyright = "Content belongs to its respective copyright holder."
 paginate = 3
