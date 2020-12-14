@@ -141,7 +141,7 @@ EOSL products as the original manufacturer of the products.
 Third-party maintenance provides a rapid service that most OEMs can’t match.
 Original manufacturers might take days to deliver a replacement part,
 third-party maintenance providers utilize on-site spare parts kits, which can
-reduce downtime to mere minutes.  
+reduce downtime to mere minutes.
 
 ## Extend the Life of Your Hardware
 Even long after a product has reached its EOSL, original parts generally are
