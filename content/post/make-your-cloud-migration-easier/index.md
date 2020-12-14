@@ -22,7 +22,7 @@ itself.
 
 Add on the responsibility of maintaining your existing legacy IT
 infrastructure at the same time and that’s where sleepless nights and
-headaches start to come into play. 
+headaches start to come into play.
 
 It is easier to have someone else help you maintain your existing on-premises
 IT hardware while you concentrate on your cloud migration.
@@ -46,7 +46,7 @@ Often when migrating to the cloud,
 unforeseen issues can cause a cascade of missed deadlines. These delays can
 contribute to extra stress and extra costs. This makes the planning process
 that much more important. Add additional times for unscheduled issues that
-might occur. 
+might occur.
 
 ## Budgets are Proving to be Inadequate
 
@@ -74,24 +74,24 @@ focus on transitioning to the cloud.
 
 We support over 95+ product families across all major OEMS. Allowing us to
 support a data center with multiple OEM contract. Our support picks up right
-where OEM support ends. 
+where OEM support ends.
 
 With [Owlytica](https://reliant-technology.com/owlytica/), our free asset
 management platform, you will be able to track & schedule maintenance
-contracts all in a single platform for easy access. 
+contracts all in a single platform for easy access.
 
 Once you start using Owlytica, you will not have to worry about your
 on-premises IT hardware reaching [end of life (EOL) or end of service life
 (EOSL)](https://reliant-technology.com/blog/whats-the-difference-eol-eosl-eos-eoa/)
 without a scheduling a renewal ahead of time. Owlytica notifies you months in
-advance of scheduled renewals so you can pre-negotiate and plan accordingly. 
+advance of scheduled renewals so you can pre-negotiate and plan accordingly.
 
 Contact Reliant Technology Transitioning to the cloud has is a difficult task
 on its own, maintaining on-premise solutions shouldn’t be a burden. As an
 industry leader in [third party
 maintenance](https://reliant-technology.com/blog/what-is-third-party-maintenance/),
 we are here to help. let us deal with the hassle of on premise hardware while
-you focus on the bigger picture. 
+you focus on the bigger picture.
 
 At [Reliant](https://reliant-technology.com/home/), we work with you, offering
 sub 12 contracts custom to your needs to make things as easy as possible. To

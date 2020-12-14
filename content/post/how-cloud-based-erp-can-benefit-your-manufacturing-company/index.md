@@ -38,7 +38,7 @@ begin using on-premise ERP software.
 
 On-premise ERP solutions require significant up-front investments in hardware
 and software such as enterprise-grade servers and operating systems in order
-to start using the ERP software. 
+to start using the ERP software.
 
 Further, there are significant ongoing costs to maintain the hardware and
 software such as having to dedicate valuable IT department time to keep the
@@ -76,7 +76,7 @@ With on-premise ERP solutions, should a company ever decide to relocate, all
 of the hardware needed to operate the ERP software will need to be migrated to
 the new location and set up again by the company IT department. With
 cloud-based ERP solutions, there is no hardware to migrate making your company
-much more adaptable. 
+much more adaptable.
 
 # How Can a Cloud-Based ERP System Benefit Your Manufacturing company?
 By implementing and using a [cloud-based ERP
@@ -88,7 +88,7 @@ company can:
 Cloud-based ERP solutions take all of the data produced by the various
 departments of your manufacturing company and compile it into actionable
 information. This allows your company to perform better forecasting and make
-better decisions, increasing efficiency and productivity.  
+better decisions, increasing efficiency and productivity.
 
 ## Reduce operational costs
 
@@ -98,14 +98,14 @@ and other operational costs. [Cloud-based ERP solutions increase the
 visibility](https://www.pinnacle-online.com/case-studies/devils-peak-brewing-company-acumatica-cloud-erp)
 of the data produced by the various departments of your manufacturing company
 so that any department can know the current inventory and production rates in
-real-time. 
+real-time.
 
 ## Improve quality control
 
 Cloud-based ERP solutions limit the impact human error can cause with quality
 control. Since ERP software takes all of the data produced by your
 manufacturing company and compiles it into actionable information, management
-can more quickly and more easily identify and solve quality control issues. 
+can more quickly and more easily identify and solve quality control issues.
 
 ## Scale appropriately to meet current demands
 
