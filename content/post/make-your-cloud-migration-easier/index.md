@@ -63,7 +63,7 @@ hardware. When maintenance contracts are not being tracked properly, you might
 overlook the need to renew them. Or, you might be in the precarious position
 of having to procure one without have time to negotiate prices and terms.
 
-### How Reliant Technology Can Make the Transition Hassle-Free
+## How Reliant Technology Can Make the Transition Hassle-Free
 
 When you partner with Reliant Technology, you will have an easier time
 maintaining existing legacy IT hardware while creating a proactive plan to
@@ -86,7 +86,9 @@ on-premises IT hardware reaching [end of life (EOL) or end of service life
 without a scheduling a renewal ahead of time. Owlytica notifies you months in
 advance of scheduled renewals so you can pre-negotiate and plan accordingly.
 
-Contact Reliant Technology Transitioning to the cloud has is a difficult task
+## Contact Reliant Technology
+
+Transitioning to the cloud has is a difficult task
 on its own, maintaining on-premise solutions shouldn’t be a burden. As an
 industry leader in [third party
 maintenance](https://reliant-technology.com/blog/what-is-third-party-maintenance/),
