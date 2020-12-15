@@ -10,7 +10,7 @@ tags = [
   "software",
   "manufacturing"
 ]
-canonical = ["https://www.pinnacle-online.com/blog/2020/december/how-a-cloud-based-erp-system-can-benefit-your-manufacturing-company"]
+canonicalURL = "https://www.pinnacle-online.com/blog/2020/december/how-a-cloud-based-erp-system-can-benefit-your-manufacturing-company"
 
 [cover]
 image = "man-at-manufacturing-facility.jpg"
