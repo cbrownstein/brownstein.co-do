@@ -13,7 +13,6 @@ tags = [
   "frenchie",
   "pets"
 ]
-draft = true
 
 [cover]
 image = "leila-on-grass-with-leash.jpg"
