@@ -9,6 +9,9 @@ tags = [
   "dogs",
   "household",
   "cleaning",
+  "french bulldog",
+  "frenchie",
+  "pets"
 ]
 draft = true
 
