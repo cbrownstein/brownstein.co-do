@@ -18,7 +18,6 @@ draft = true
 [cover]
 image = "leila-on-grass-with-leash.jpg"
 alt = "Picture of a black French Bulldog named Leila in the sun lying down on grass"
-caption = "Would anyone like to adopt me?"
 +++
 
 **Why would anyone want to own a French Bulldog?**
