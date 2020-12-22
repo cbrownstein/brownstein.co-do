@@ -12,9 +12,9 @@ tags = [
   "marketing"
 ]
 
-#[cover]
-#image = "leila-on-grass-with-leash.jpg"
-#alt = "Picture of a black French Bulldog named Leila in the sun lying down on grass"
+[cover]
+image = "cup-of-coffee.jpg"
+alt = "Picture of a cup of coffee with steam rising"
 +++
 
 ## Why open your own coffee shop business?
