@@ -52,19 +52,20 @@ the information.
 
 The benefits of owning your own coffee shop business are many:
 
-- **Your growth potential is unlimited.** For example, you can expand the food and
-  drink offerings sold at your coffee shop. You can open up new locations or
-  expand into online sales. When you work for someone else and are being paid
-  a wage or a salary, your income is determined by your employer. Your
+- **Your growth potential is unlimited.** For example, you can expand the food
+  and drink offerings sold at your coffee shop. You can open up new locations
+  or expand into online sales. When you work for someone else and are being
+  paid a wage or a salary, your income is determined by your employer. Your
   employer has no obligation to increase your pay, even if the company is
   doing well or you are performing your job exceptionally.
-- **You get to see people progress in their lives.** Many coffee shop owners first
-  meet their customers around the time the customer graduates from high school
-  or begins attending college—as coffee shops tend to attract people looking
-  for a place to study. Over time, you might get to see some of your customers
-  graduate school, begin their careers, and start their own families.
-- **You can avail yourself of tax advantages.** There can be tax advantages
-  to owning and operating your own business, such as being able to write off
+- **You get to see people progress in their lives.** Many coffee shop owners
+  first meet their customers around the time the customer graduates from high
+  school or begins attending college—as coffee shops tend to attract people
+  looking for a place to study. Over time, you might get to see some of your
+  customers graduate school, begin their careers, and start their own
+  families.
+- **You can avail yourself of tax advantages.** There can be tax advantages to
+  owning and operating your own business, such as being able to write off
   expenses that you ordinarily would not be able to write off.
 - **You have an asset that you can sell or leave for your family.** If you are
   working for someone else and earning a wage or salary, you cannot simply
