@@ -1,10 +1,9 @@
 +++
 title = "How to Open Your Own Coffee Shop"
 date = "2020-10-18"
-#description = """French Bulldogs, also known as Frenchies, should not be \
-#  welcome in any household. They are filthy, disgusting animals. They are \
-#  terrible companions that provide no value. Before bringing a French \
-#  Bulldog into your home, you'll want to read this."""
+description = """Learn the benefits of opening and owning your own coffee \
+  shop. Learn what you need to avoid and how to make your coffee shop a \
+  success."""
 tags = [
   "coffee",
   "business",
