@@ -15,6 +15,9 @@ tags = [
 [cover]
 image = "cup-of-coffee.jpg"
 alt = "Picture of a cup of coffee with steam rising"
+caption = """\"coffee steam 1\" by waferboard is licensed with CC BY 2.0. To \
+  view a copy of this license, visit \
+  https://creativecommons.org/licenses/by/2.0/"""
 +++
 
 ## Why open your own coffee shop business?
