@@ -11,7 +11,6 @@ tags = [
   "newsom",
   "taxes"
 ]
-draft = true
 
 [cover]
 image = "welcome-to-texas-sign.jpg"
