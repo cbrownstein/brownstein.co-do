@@ -1,9 +1,9 @@
 +++
 title = "Why Californians Are Moving to Texas"
-date = "2020-12-22"
+date = "2020-12-23"
 description = """Learn why Californians are fleeing Texas. Among other \
-  reasons, they are sick and tired of California's high taxes and asinine \
-  policies."""
+  reasons, they are sick and tired of California's asinine policies, \
+  crumbling infrastructure, and sky-high cost of living."""
 tags = [
   "texas",
   "california",
