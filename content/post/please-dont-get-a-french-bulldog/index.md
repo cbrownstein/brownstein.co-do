@@ -29,6 +29,7 @@ You can expect your Frenchie:
 - to become overly excited and randomly bite kids
 - to not follow a single one of your commands
 - to pee and crap all over your carpet and floors
+- to almost freeze to death when it's cold and almost heat stroke when it's hot
 
 What redeeming qualities do French Bulldogs have? Absolutely none.
 
