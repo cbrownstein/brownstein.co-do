@@ -1,7 +1,7 @@
 theme = "hugo-PaperMod"
 relativeURLs = true
 baseURL = "https://brownstein.co/"
-title = "Cody Brownstein"
+title = "Cody Brownstein's Website"
 author = "Cody Brownstein"
 copyright = "© 2020-2021 Cody Brownstein, unless otherwise indicated. All rights reserved."
 paginate = 3
