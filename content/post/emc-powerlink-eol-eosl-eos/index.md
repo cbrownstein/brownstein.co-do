@@ -5,6 +5,8 @@ description = ""
 tags = [
   "emc",
   "powerlink",
+  "hardware",
+  "data center",
   "maintenance contract",
   "reliant technology"
 ]
