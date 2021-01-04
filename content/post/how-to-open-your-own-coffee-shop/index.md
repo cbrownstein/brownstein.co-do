@@ -179,7 +179,7 @@ coffee shop business, you should be keeping in mind to regularly:
   to concentrate and process information. It is recommended to prepare healthy
   meals for yourself early in the morning or before you go to bed. If you do
   not prepare meals for yourself, it can be tempting to eat junk food or to
-  not eat at all. 
+  not eat at all.
 - **Exercise.** Your exercise does not need to be strenuous, but you should
   set aside the time to get in at least 30 minutes of exercise.
   You can perform stretches, you can go for a light jog, or you can purchase
