@@ -9,7 +9,8 @@ tags = [
   "maintenance contract",
   "owlytica",
   "reliant technology",
-  "business"
+  "business",
+  "technology"
 ]
 canonicalURL = "https://reliant-technology.com/blog/make-your-migration-to-the-cloud-easier-with-reliant-technology/"
 

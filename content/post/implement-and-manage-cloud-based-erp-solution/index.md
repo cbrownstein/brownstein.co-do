@@ -13,7 +13,8 @@ tags = [
   "business intelligence",
   "acumatica",
   "pinnacle",
-  "business"
+  "business",
+  "technology"
 ]
 canonicalURL = "https://www.pinnacle-online.com/blog/2020/november/differences-between-on-premise-and-cloud-based-erp-software"
 
