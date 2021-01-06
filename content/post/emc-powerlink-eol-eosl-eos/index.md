@@ -8,7 +8,8 @@ tags = [
   "hardware",
   "data center",
   "maintenance contract",
-  "reliant technology"
+  "reliant technology",
+  "business"
 ]
 canonicalURL = "https://reliant-technology.com/blog/emc-powerlink-eol-eosl-eos-what-it-means-for-your-arrays/"
 

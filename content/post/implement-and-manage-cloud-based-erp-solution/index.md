@@ -12,7 +12,8 @@ tags = [
   "customer relationship management",
   "business intelligence",
   "acumatica",
-  "pinnacle"
+  "pinnacle",
+  "business"
 ]
 canonicalURL = "https://www.pinnacle-online.com/blog/2020/november/differences-between-on-premise-and-cloud-based-erp-software"
 

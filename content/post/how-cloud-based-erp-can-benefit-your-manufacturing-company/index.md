@@ -9,7 +9,8 @@ tags = [
   "erp",
   "software",
   "manufacturing",
-  "acumatica"
+  "acumatica",
+  "business"
 ]
 canonicalURL = "https://www.pinnacle-online.com/blog/2020/december/how-a-cloud-based-erp-system-can-benefit-your-manufacturing-company"
 
