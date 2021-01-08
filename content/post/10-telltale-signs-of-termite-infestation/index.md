@@ -18,8 +18,6 @@ caption = """\"Termites\" by Gnilenkov Aleksey is licensed with CC BY 2.0. \
   https://creativecommons.org/licenses/by/2.0/"""
 +++
 
-# 10 Telltale Signs of a Termite Infestation
-
 ## What is a termite?
 
 Termites are a type of insect that mostly feed on dead plant material and
