@@ -18,8 +18,6 @@ caption = """\"Trees\" by @Doug88888 is licensed with CC BY-NC-SA 2.0. To \
   https://creativecommons.org/licenses/by-nc-sa/2.0/"""
 +++
 
-# The products you use every day are responsible for billions of trees being cut down each year
-
 ## Better consumer choices lead to a better world
 
 Oftentimes, we don’t put much thought into the products we purchase and use
