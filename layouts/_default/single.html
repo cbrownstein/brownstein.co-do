@@ -48,12 +48,12 @@
   <div class="post-content">
     {{- partial "anchored_headings.html" .Content -}}
   </div>
-    {{- if .Params.canonicalURL }}
-    <div>
-      <!-- TODO: Style link so it doesn't look like part of content. -->
-      <a href="{{ .Params.canonicalURL }}">Client site</a>
-    </div>
-    {{- end }}
+  {{- if .Params.canonicalURL }}
+  <div>
+    <!-- TODO: Style link so it doesn't look like part of content. -->
+    <a href="{{ .Params.canonicalURL }}">Client site</a>
+  </div>
+  {{- end }}
   <footer class="post-footer">
     {{- if .Params.tags }}
     <ul class="post-tags">
