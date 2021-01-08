@@ -49,7 +49,7 @@
     {{- partial "anchored_headings.html" .Content -}}
   </div>
   {{- if .Params.canonicalURL }}
-  <div>
+  <div class="post-content-meta">
     <!-- TODO: Style link so it doesn't look like part of content. -->
     <a href="{{ .Params.canonicalURL }}">Client site</a>
   </div>
