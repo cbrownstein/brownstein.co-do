@@ -47,6 +47,11 @@
   {{- end }}
   <div class="post-content">
     {{- partial "anchored_headings.html" .Content -}}
+    {{ if .Params.canonicalURL }}
+    <p>
+      <a href="{{ .Params.canonicalURL }}">Client site</a>
+    </p>
+    {{- end }}
   </div>
   <footer class="post-footer">
     {{- if .Params.tags }}
