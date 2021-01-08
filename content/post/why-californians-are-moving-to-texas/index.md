@@ -31,11 +31,11 @@ Here are 5 reasons why:
 
 ## 1. Texas understands that its residents want to keep as much of their hard-earned money as possible. California wants to take as much of its residents’ money as possible.
 
-Texas understands that quality of life matters. That’s one reason why “the
-Lone Star State” has **zero state income tax**.
+Texas understands that quality of life matters. That’s one reason why **“the
+Lone Star State” has zero state income tax**.
 
-California, on the other hand, has a top marginal income tax rate of 13.3%,
-which is the **highest in the nation**. Further, the base sales tax rate of
+**California, on the other hand, has a top marginal income tax rate of 13.3%,
+which is the highest in the nation**. Further, the base sales tax rate of
 California is 7.25%, also the highest in the nation. The Texas state sales and
 use tax is 6.25%.
 
