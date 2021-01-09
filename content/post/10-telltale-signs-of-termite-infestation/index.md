@@ -25,7 +25,7 @@ cellulose, often in the form of wood, dead leaves, soil, and animal feces.
 They are well-known for the damage they cause to buildings, crops, and
 forests.
 
-Termites are prevalent in all continents except for Anatartica.
+Termites are prevalent in all continents except for Antarctica.
 
 Like ants, termites live in colonies that can range in size from a few hundred
 to several million individual termites.
