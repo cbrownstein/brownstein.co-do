@@ -58,3 +58,9 @@ series = "series"
 [params]
   author = "Cody Brownstein"
   showShareButtons = true
+
+  [params.homeInfoParams]
+    Title = "Welcome to Cody Brownstein's Website!"
+    Content = """I created this website to showcase the content I've written \
+    for clients on [different topics](/tags). Check out the \
+    [About page](/about) for more information about this website."""
