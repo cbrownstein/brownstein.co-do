@@ -1,7 +1,7 @@
 +++
 title = "Why Californians Are Moving to Texas"
 date = "2020-12-23"
-description = """Learn why Californians are fleeing Texas. Among other \
+description = """Learn why Californians are fleeing to Texas. Among other \
   reasons, they are sick and tired of California's asinine policies, \
   crumbling infrastructure, and sky-high cost of living."""
 tags = [
