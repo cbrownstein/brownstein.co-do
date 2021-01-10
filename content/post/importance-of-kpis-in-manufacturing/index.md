@@ -17,6 +17,9 @@ client = "Cloud 9 ERP Solutions"
 [cover]
 image = "two-men-operating-machine.jpg"
 alt = "Picture of 2 men operating a machine to spool filament"
+caption = """\"MakerBot Manufacturing\" by jurvetson is licensed with CC BY \
+  2.0. To view a copy of this license, visit \
+  https://creativecommons.org/licenses/by/2.0/"""
 +++
 
 ## What is a KPI?
