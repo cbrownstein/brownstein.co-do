@@ -1,6 +1,4 @@
 +++
-aliases = ["posts", "articles", "blog", "showcase", "docs"]
 title = "Posts"
-author = "Hugo Authors"
-tags = ["index"]
+description = "Here are examples of content written by Cody Brownstein."
 +++
