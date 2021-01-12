@@ -59,6 +59,6 @@ tag = "tags"
 
   [params.homeInfoParams]
     Title = "Welcome to Cody Brownstein's Website!"
-    Content = """I created this website to showcase the content I've written \
+    Content = """I've created this website to showcase the content I've written \
     for clients on [different topics](/tags). Check out the \
     [About page](/about) for more information about this website."""
