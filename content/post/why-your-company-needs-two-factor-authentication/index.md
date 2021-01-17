@@ -17,6 +17,7 @@ client = "MDS IT Services"
 image = "YubiKey-4-keychain-and-YubiKey-4-Nano.png"
 alt = "Picture of a YubiKey 4 on a keychain and a YubiKey 4 Nano"
 caption = "Yubico, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+relative = true
 +++
 
 Hackers and cybercriminals can easily take over your company’s valuable data

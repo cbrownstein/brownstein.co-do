@@ -18,6 +18,7 @@ canonicalURL = "https://www.pinnacle-online.com/blog/2020/december/how-a-cloud-b
 [cover]
 image = "man-at-manufacturing-facility.jpg"
 alt = "Picture of a man at a manufacturing facility"
+relative = true
 +++
 
 Create more efficient and proactive processes within your business with an

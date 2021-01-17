@@ -17,6 +17,7 @@ tags = [
 [cover]
 image = "leila-on-grass-with-leash.jpg"
 alt = "Picture of a black French Bulldog named Leila in the sun lying down on grass"
+relative = true
 +++
 
 **Why would anyone want to own a French Bulldog?**

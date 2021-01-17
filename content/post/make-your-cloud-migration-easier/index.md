@@ -17,6 +17,7 @@ canonicalURL = "https://reliant-technology.com/blog/make-your-migration-to-the-c
 [cover]
 image = "woman-using-computer.jpg"
 alt = "Picture of a woman using a computer"
+relative = true
 +++
 
 Migrating from on-premises IT solutions to the cloud is a daunting task in

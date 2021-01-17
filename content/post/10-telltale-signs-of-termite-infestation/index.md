@@ -16,6 +16,7 @@ alt = "Picture of many termites eating a tree"
 caption = """\"Termites\" by Gnilenkov Aleksey is licensed with CC BY 2.0. \
   To view a copy of this license, visit \
   https://creativecommons.org/licenses/by/2.0/"""
+relative = true
 +++
 
 ## What is a termite?

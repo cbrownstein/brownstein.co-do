@@ -17,6 +17,7 @@ canonicalURL = "https://reliant-technology.com/blog/emc-powerlink-eol-eosl-eos-w
 [cover]
 image = "man-on-laptop-in-data-center.jpg"
 alt = "Picture of a man using a laptop inside of a data center"
+relative = true
 +++
 
 At some point you have probably come across the acronyms EOL, EOSL, and EOS.

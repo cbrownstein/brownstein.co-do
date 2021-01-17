@@ -20,6 +20,7 @@ alt = "Picture of 2 men operating a machine to spool filament"
 caption = """\"MakerBot Manufacturing\" by jurvetson is licensed with CC BY \
   2.0. To view a copy of this license, visit \
   https://creativecommons.org/licenses/by/2.0/"""
+relative = true
 +++
 
 ## What is a KPI?

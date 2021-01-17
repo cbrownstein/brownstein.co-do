@@ -18,6 +18,7 @@ alt = "Picture of a road sign that says Welcome to Texas"
 caption = """\"Welcome To Texas\" by dph1110 is licensed with CC BY 2.0. To \
   view a copy of this license, visit \
   https://creativecommons.org/licenses/by/2.0/"""
+relative = true
 +++
 
 More and more people are realizing that California isn’t for them anymore.

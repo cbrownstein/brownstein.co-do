@@ -15,6 +15,7 @@ alt = "Picture of a bed bug infestation"
 caption = """\"slipper infested with bed bugs\" by louento.pix is licensed \
   with CC BY-ND 2.0. To view a copy of this license, visit \
   https://creativecommons.org/licenses/by-nd/2.0/"""
+relative = true
 +++
 
 ## What is a Bed Bug?

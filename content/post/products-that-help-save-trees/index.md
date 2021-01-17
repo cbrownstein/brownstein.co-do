@@ -16,6 +16,7 @@ alt = "Picture of trees in a forest"
 caption = """\"Trees\" by @Doug88888 is licensed with CC BY-NC-SA 2.0. To \
   view a copy of this license, visit \
   https://creativecommons.org/licenses/by-nc-sa/2.0/"""
+relative = true
 +++
 
 ## Better consumer choices lead to a better world

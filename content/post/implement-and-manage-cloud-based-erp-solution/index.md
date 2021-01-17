@@ -21,6 +21,7 @@ canonicalURL = "https://www.pinnacle-online.com/blog/2020/november/differences-b
 [cover]
 image = "acumatica-cloud-erp.jpg"
 alt = "Picture of people using Acumatica Cloud ERP software"
+relative = true
 +++
 
 ## What is Cloud-Based ERP Software?
