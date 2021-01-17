@@ -12,6 +12,7 @@ canonicalURL = "https://cannabisvapereviews.com/blog/live-resin-explained/"
 [cover]
 image = "live-rosin-cannabis-concentrate.jpg"
 alt = "Picture of live rosin in a plastic container"
+relative = true
 +++
 
 ## What are Live Resin Cannabis Concentrates?
