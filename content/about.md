@@ -6,7 +6,7 @@ date = "2020-12-06"
 author = "Cody Brownstein"
 +++
 
-Hi! My name is Cody Brownstein. I've created this site to:
+Hi! My name is [Cody Brownstein](https://keybase.io/cbrownstein). I've created this site to:
 
 - showcase the [various content](/tags) I've written for clients
 - experiment with the [Hugo](https://gohugo.io/) static site generator
