@@ -16,6 +16,7 @@ relative = true
 +++
 
 ## What are Live Resin Cannabis Concentrates?
+
 Live resin, like distillate, is a type of cannabis concentrate. However,
 compared to distillate, live resin is not as refined. This leads to live resin
 retaining the characteristic, aromatic scent produced by the complex terpene
