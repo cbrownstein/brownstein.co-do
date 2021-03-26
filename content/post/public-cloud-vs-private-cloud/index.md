@@ -16,6 +16,9 @@ canonicalURL = "https://smetric.com/2021/03/18/public-cloud-vs-private-cloud-wha
 [cover]
 image = "devices-and-cloud.jpg"
 alt = "Graphic of electronic devices connected to a cloud"
+caption = """\"Cloud Computing\" by FutUndBeidl is licensed with CC BY 2.0. \
+  To view a copy of this license, visit \
+  https://creativecommons.org/licenses/by/2.0/"""
 relative = true
 +++
 
