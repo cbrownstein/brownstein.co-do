@@ -8,7 +8,7 @@ author = "Cody Brownstein"
 
 Hi! My name is [Cody Brownstein](https://keybase.io/cbrownstein). I've created this site to:
 
-- showcase the [various content](/tags) I've written for clients
+- showcase the [various content I've written for clients](/tags)
 - experiment with the [Hugo](https://gohugo.io/) static site generator
 - share my thoughts and feelings on myriad topics
 
