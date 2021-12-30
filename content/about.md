@@ -1,6 +1,6 @@
 +++
 title = "About Me"
-description = "Get to know Cody Brownstein, content writer extraordinaire and creator of this awesome website."
+description = "Get to know Cody Brownstein, content writer extraordinaire, experienced software QA tester, and creator of this awesome website."
 date = "2020-12-06"
 #aliases = ["about-us", "about-hugo", "contact"]
 author = "Cody Brownstein"

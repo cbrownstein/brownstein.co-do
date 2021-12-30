@@ -11,7 +11,6 @@ tags = [
   "business",
   "technology"
 ]
-canonicalURL = "https://smetric.com/2021/03/18/public-cloud-vs-private-cloud-what-is-the-difference/"
 
 [cover]
 image = "devices-and-cloud.jpg"

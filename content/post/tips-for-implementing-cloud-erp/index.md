@@ -10,7 +10,6 @@ tags = [
   "erp",
   "business"
 ]
-canonicalURL = "https://smetric.com/2021/04/28/tips-for-implementing-a-cloud-erp-solution/"
 
 [cover]
 image = "erp-diagram.png"
